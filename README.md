@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web Programming
 - 🌱 I’m currently learning ...Spring boot
 - 💞️ I’m looking to collaborate on ... any challenge is good
-- 📫 How to reach me ... natumiranda.28@gmail.com or any link shown onn this profile.
+- 📫 How to reach me ... natumiranda.28@gmail.com or any link shown on this profile.
 - I am the owner and founder of Deven Developers.
 
 <!---
