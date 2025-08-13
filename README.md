@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natimiranda28
 - 👀 I’m interested in SAP ABAP & Backend coding
 - 🌱 I’m currently learning advanced Python
-- 📫 How to reach me ... natumiranda.28@gmail.com or any link shown on this profile.
+- 📫 How to reach me: main--marianataliamiranda.netlify.app/
 
 
 <!---
