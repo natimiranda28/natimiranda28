@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natimiranda28
-- 👀 I’m interested in SAP ABAP
-- 🌱 I’m currently learning ABAP
+- 👀 I’m interested in SAP ABAP & Backend coding
+- 🌱 I’m currently learning advanced Python
 - 📫 How to reach me ... natumiranda.28@gmail.com or any link shown on this profile.
 
 
