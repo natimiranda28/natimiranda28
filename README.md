@@ -43,7 +43,7 @@ Busco constantemente mejorar mis habilidades y aportar valor en proyectos que im
 ### 📫 Contacto
 - 📧 **natimiranda.28@gmail.com**  
 - 🌐 [Portfolio](https://main--marianatalialmiranda.netlify.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com) _(agregalo si tenés)_  
+- 💼 [LinkedIn](https://www.linkedin.com/in/maria-natalia-miranda28/) 
 
 ---
 
