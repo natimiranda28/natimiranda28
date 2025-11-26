@@ -4,10 +4,10 @@
 
 ---
 
-### 👩‍💻 Sobre mí
-Soy desarrolladora apasionada por la **programación backend** y las soluciones tecnológicas que combinan **eficiencia y simplicidad**.  
-Me formé en **SAP ABAP** y actualmente profundizo en **Python avanzado y bases de datos**.  
-Busco constantemente mejorar mis habilidades y aportar valor en proyectos que impacten de forma real.  
+### 👩‍💻 Sobre mí  
+Soy desarrolladora enfocada en el **backend** y en crear soluciones simples, escalables y eficientes.  
+Me formé en **Python avanzado, bases de datos y desarrollo con Django**, y disfruto trabajar en proyectos donde pueda aprender, crecer y aportar valor real.  
+Siempre estoy buscando mejorar y construir tecnología que haga la vida más fácil.
 
 ---
 
