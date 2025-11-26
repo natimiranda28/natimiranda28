@@ -1,6 +1,6 @@
 # Natalia Miranda
 
-💻 **Backend & Fullstack Developer** | SAP ABAP • Python • JavaScript • Java • C  
+💻 **Fullstack Developer** | SAP ABAP • Python • JavaScript • Java • C  
 
 ---
 
