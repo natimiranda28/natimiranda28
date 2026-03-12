@@ -1,6 +1,6 @@
 # Natalia Miranda
 
-💻 **Fullstack Developer** | SAP ABAP • Python • JavaScript • Java • C  
+💻 **Fullstack Developer** | Python • JavaScript • Java • C  
 
 ---
 
@@ -24,14 +24,41 @@ Siempre estoy buscando mejorar y construir tecnología que haga la vida más fá
 ---
 
 ### 🚀 Proyectos destacados
+
+- [**CHLOE Dress**](https://github.com/natimiranda28/CHLOE-indumentaria)  
+   Product catalog platform developed for a clothing store.
+
+Features:
+
+- product catalog management
+- backend API for product data
+- MongoDB database integration
+- structured backend with models and routes
+- static frontend for product browsing
+
+Tech stack:
+
+Node.js • Express • MongoDB • HTML • CSS • JavaScript
+
+
 - [**Hotel Amaneceres**](https://github.com/natimiranda28/Hotel-Amaneceres)  
   Sitio web en HTML y CSS para un hotel en Salta, Argentina.  
 
-- [**ABAP Practice**](https://github.com/natimiranda28/ABAP_practice)  
-  Ejercicios prácticos en ABAP para fortalecer la lógica de negocio en SAP.  
 
-- [**Wwwapas**](https://github.com/natimiranda28/Wwwapas)  
-  Proyecto en HTML con enfoque en maquetación y diseño responsivo.  
+### C Programming Practice
+
+Collection of programs focused on strengthening understanding of:
+
+- pointers
+- recursion
+- strings
+- structures
+- algorithmic thinking
+
+🔗 
+https://github.com/natimiranda28/PilasenC
+https://github.com/natimiranda28/HackerankC
+https://github.com/natimiranda28/HackerrankChallengesinC
 
 ---
 
