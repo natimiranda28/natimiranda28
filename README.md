@@ -1,6 +1,6 @@
 # Natalia Miranda
 
-💻 **Fullstack Developer** | Python • JavaScript • Java • C  
+💻 Python • JavaScript • Java • C  
 
 ---
 
