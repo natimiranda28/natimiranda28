@@ -43,5 +43,5 @@ Building practical projects that combine **cloud infrastructure, automation and 
 
 ---
 
-📍 Argentina
+📍 Salta, Salta, Argentina
 💻 Always learning something new.
